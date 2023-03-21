@@ -1,7 +1,7 @@
 # Spaceship Titanic
 Predict which passengers are transported to an alternate dimension
 
-![](./assets/Spaceship%20Titanic.png)
+![](./Spaceship%20Titanic.png)
 
 ## Resuts
 Metric: `Accuracy`
