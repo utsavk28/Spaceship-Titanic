@@ -29,6 +29,7 @@ Metric: `Accuracy`
 
 
 ### Tutorials
+- [How to setup Project Environments in Julia](https://towardsdatascience.com/how-to-setup-project-environments-in-julia-ec8ae73afe9c)
 - [Setup Julia on Jupyter Notebook](https://www.kdnuggets.com/2022/11/setup-julia-jupyter-notebook.html)
 - [Work with Julia on Jupyter Notebook](https://www.geeksforgeeks.org/how-to-work-with-julia-on-jupyter-notebook/)
 - [Working with CSV.jl & DataFrame.jl](https://towardsdatascience.com/read-csv-to-data-frame-in-julia-programming-lang-77f3d0081c14)
