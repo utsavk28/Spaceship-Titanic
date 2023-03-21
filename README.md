@@ -22,6 +22,11 @@ Metric: `Accuracy`
 - [DataFrames.jl](https://dataframes.juliadata.org/stable/)
 - [CSV.jl](https://csv.juliadata.org/stable/)
 - [Plots.jl](https://docs.juliaplots.org/latest/)
+- [StatsPlots.jl](https://github.com/JuliaPlots/StatsPlots.jl)
+- [MLJ.jl](https://alan-turing-institute.github.io/MLJ.jl/dev/)
+- [ScikitLearn.jl](https://scikitlearnjl.readthedocs.io/en/latest/)
+- [BetaML.jl](https://github.com/sylvaticus/BetaML.jl)
+
 
 ### Tutorials
 - [Setup Julia on Jupyter Notebook](https://www.kdnuggets.com/2022/11/setup-julia-jupyter-notebook.html)
